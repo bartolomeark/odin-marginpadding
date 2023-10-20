@@ -1,0 +1,21 @@
+div{
+    
+}
+.one{
+    background-color: pink;
+    padding: 5%;
+    margin: 2%;
+    border: 3px solid rgb(78, 2, 255);
+}
+.two{
+    background-color: rgb(109, 179, 182);
+    border: 3px solid purple;
+    margin-bottom: 10%;
+}
+.three{
+    background-color: burlywood;
+    border: 3px solid rgb(167, 62, 55);
+    width: 353px;
+    padding: 6%;
+    margin-left: 50%;
+}
